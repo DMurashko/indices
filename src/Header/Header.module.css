@@ -1,0 +1,16 @@
+.upper {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	margin-bottom: 34px;
+}
+
+.lower {
+	text-align: center;
+	font-family: Playfair Display;
+	font-size: 54px;
+	font-style: normal;
+	font-weight: 700;
+	line-height: 61px;
+	margin-bottom: 60px;
+}
