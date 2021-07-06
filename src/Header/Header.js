@@ -11,7 +11,7 @@ export default function Header() {
 				<WalletButton />
 			</div>
 			<div className={styles.lower}>
-				All indeces
+				All indices
 			</div>
 		</>	
 	);
