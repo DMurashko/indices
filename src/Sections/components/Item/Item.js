@@ -3,7 +3,6 @@ import React from 'react';
 import styles from './Item.module.css';
 
 export default function Item({ title, price, capitalization, change }) {
-	console.log(title, price, capitalization, change);
 	return (
 		<div 
 			className={styles.main} 
